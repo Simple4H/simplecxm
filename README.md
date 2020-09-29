@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=simplecxm)](https://github-readme-stats.vercel.app/api?username=simplecxm&hide=contribs&count_private=true&show_icons=true)
+[![Simple4H's github stats](https://github-readme-stats.vercel.app/api?username=simplecxm&hide=contribs&count_private=true&show_icons=true)](https://github.com/simplecxm)
 
 <!--
 **simplecxm/simplecxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
